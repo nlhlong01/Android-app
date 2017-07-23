@@ -1,0 +1,247 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:10:22-69
+application
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:12:5-93:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\A\.android\build-cache\be008861e1f03876f09a38223da875c6cb5c3524\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\A\.android\build-cache\1aad3b953dc9c845e20de6bda04e4447265020cc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\A\.android\build-cache\192515ae1fd7e0ad7d3dd667dceb53ac8a077b0a\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\A\.android\build-cache\d59f2c17a9d6bb4a13c9650a60e6c885650365cc\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\A\.android\build-cache\3c8f3050ab5b0ac0980160c06fd3e68a65be18a4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.4.0] C:\Users\A\.android\build-cache\ca33f255ce1fae4a8ecc3995ae5e62c74f044aa2\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\A\.android\build-cache\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\A\.android\build-cache\11f0c183e58a8a833dae996bde11cc3ea22f9633\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\A\.android\build-cache\9fb1d86e1e215718b413ffda3438b4a2947a1498\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\A\.android\build-cache\42cc5a3888e8d837718edc4c8868f2f16b30eee9\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] C:\Users\A\.android\build-cache\215bbfb5d65032a9c3b3555d0ea3b99fa495a5d9\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\A\.android\build-cache\4e3e2669e8e573438e63e867b1eb02d36aee3c67\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\A\.android\build-cache\e9ca7beabd5af457e82474d440ea42d4e0aabebd\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\A\.android\build-cache\8885df8e6ce9b7acb246fb3f2af51a5e3a76c0c8\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\A\.android\build-cache\e47925b86f713e4fcde878f526fddbc98ac9fcc3\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\A\.android\build-cache\b06df6a16f0bbed1277e7e97e5558d541499aceb\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\A\.android\build-cache\c71105e9bc8cef03fa5d8b3f5f627ff9ca34ec69\output\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:16:9-37
+	android:supportsRtl
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:17:9-35
+	android:debuggable
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:14:9-34
+	android:allowBackup
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.a.headlinereader.MainActivity
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:26:9-29:48
+MERGED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:29:13-45
+	android:configChanges
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:28:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:27:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:30:9-41:20
+	android:exported
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:31:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:33:13-40:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:37:27-75
+data
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:39:17-75
+	android:scheme
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:39:23-72
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:43:9-45:55
+	android:value
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:45:13-52
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:44:13-58
+provider#com.facebook.FacebookContentProvider
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:47:9-50:39
+	android:authorities
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:49:13-90
+	android:exported
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:50:13-36
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:48:13-64
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:55:9-57:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\A\.android\build-cache\d59f2c17a9d6bb4a13c9650a60e6c885650365cc\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:57:13-66
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:56:13-58
+activity#com.example.a.headlinereader.Add
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:59:9-41
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:59:19-38
+activity#com.example.a.headlinereader.AddKeyword
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:60:9-64:20
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:60:19-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:61:13-63:49
+	android:value
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:63:17-46
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:62:17-63
+activity#com.example.a.headlinereader.AddCategory
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:65:9-69:20
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:65:19-46
+activity#com.example.a.headlinereader.AddArticleSource
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:70:9-77:20
+	android:label
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:72:13-49
+	android:parentActivityName
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:73:13-55
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:71:13-45
+activity#com.example.a.headlinereader.ViewTables
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:78:9-81:20
+	android:parentActivityName
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:80:13-55
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:79:13-39
+activity#com.example.a.headlinereader.ViewKeyword
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:83:9-85:57
+	android:parentActivityName
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:85:13-55
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:84:13-40
+activity#com.example.a.headlinereader.ViewCategory
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:86:9-88:57
+	android:parentActivityName
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:88:13-55
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:87:13-41
+activity#com.example.a.headlinereader.ViewArticleSource
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:89:9-91:57
+	android:parentActivityName
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:91:13-55
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:90:13-46
+activity#com.example.a.headlinereader.Search
+ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:92:9-53
+	android:name
+		ADDED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml:92:19-41
+uses-sdk
+INJECTED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\A\.android\build-cache\be008861e1f03876f09a38223da875c6cb5c3524\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\A\.android\build-cache\1aad3b953dc9c845e20de6bda04e4447265020cc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\A\.android\build-cache\192515ae1fd7e0ad7d3dd667dceb53ac8a077b0a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\A\.android\build-cache\b596a16d274855dd18a914aefa38bd3e6da2cd6e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\A\.android\build-cache\d59f2c17a9d6bb4a13c9650a60e6c885650365cc\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\A\.android\build-cache\3c8f3050ab5b0ac0980160c06fd3e68a65be18a4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.4.0] C:\Users\A\.android\build-cache\ca33f255ce1fae4a8ecc3995ae5e62c74f044aa2\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\A\.android\build-cache\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\A\.android\build-cache\11f0c183e58a8a833dae996bde11cc3ea22f9633\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\A\.android\build-cache\9fb1d86e1e215718b413ffda3438b4a2947a1498\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\A\.android\build-cache\42cc5a3888e8d837718edc4c8868f2f16b30eee9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.4.0] C:\Users\A\.android\build-cache\215bbfb5d65032a9c3b3555d0ea3b99fa495a5d9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\A\.android\build-cache\4e3e2669e8e573438e63e867b1eb02d36aee3c67\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\A\.android\build-cache\e9ca7beabd5af457e82474d440ea42d4e0aabebd\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\A\.android\build-cache\8885df8e6ce9b7acb246fb3f2af51a5e3a76c0c8\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\A\.android\build-cache\e47925b86f713e4fcde878f526fddbc98ac9fcc3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\A\.android\build-cache\b06df6a16f0bbed1277e7e97e5558d541499aceb\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\A\.android\build-cache\c71105e9bc8cef03fa5d8b3f5f627ff9ca34ec69\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.4.0] C:\Users\A\.android\build-cache\ca33f255ce1fae4a8ecc3995ae5e62c74f044aa2\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\A\Dropbox\HeadlineReader\app\src\main\AndroidManifest.xml
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:45:13-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\A\.android\build-cache\be008861e1f03876f09a38223da875c6cb5c3524\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\A\.android\build-cache\1aad3b953dc9c845e20de6bda04e4447265020cc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\A\.android\build-cache\3c8f3050ab5b0ac0980160c06fd3e68a65be18a4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\A\.android\build-cache\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\A\.android\build-cache\11f0c183e58a8a833dae996bde11cc3ea22f9633\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\A\.android\build-cache\9fb1d86e1e215718b413ffda3438b4a2947a1498\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\A\.android\build-cache\42cc5a3888e8d837718edc4c8868f2f16b30eee9\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] C:\Users\A\.android\build-cache\215bbfb5d65032a9c3b3555d0ea3b99fa495a5d9\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\A\.android\build-cache\4e3e2669e8e573438e63e867b1eb02d36aee3c67\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\A\.android\build-cache\e9ca7beabd5af457e82474d440ea42d4e0aabebd\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\A\.android\build-cache\8885df8e6ce9b7acb246fb3f2af51a5e3a76c0c8\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\A\.android\build-cache\e47925b86f713e4fcde878f526fddbc98ac9fcc3\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\A\.android\build-cache\b06df6a16f0bbed1277e7e97e5558d541499aceb\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\A\.android\build-cache\c71105e9bc8cef03fa5d8b3f5f627ff9ca34ec69\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\A\.android\build-cache\be008861e1f03876f09a38223da875c6cb5c3524\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\A\.android\build-cache\be008861e1f03876f09a38223da875c6cb5c3524\output\AndroidManifest.xml:23:9-47

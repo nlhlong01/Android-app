@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvKeyword"
+            android:clickable="true"
+            android:onClick="clickReaction"
+            android:text="keyword"
+            android:textAlignment="center"
+            android:textSize="30sp" />
+
+    </TableRow>
+
+    <TableRow android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:text="category\n"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvCategory"
+            android:clickable="true"
+            android:onClick="clickReaction"
+            android:textSize="30sp" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:text="article source\n"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvArticleSource"
+            android:clickable="true"
+            android:onClick="clickReaction"
+            android:textSize="30sp" />
+
+    </TableRow>
+</TableLayout>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="httpclient-osgi-4.5.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient-osgi/4.5.2/3262c30d156f3ae05a5c95d9aa39f0e3eed17585/httpclient-osgi-4.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient-osgi/4.5.2/557605944893bc2165f63eac6fc42b0bf874ba99/httpclient-osgi-4.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
