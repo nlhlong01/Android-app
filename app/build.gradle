@@ -50,16 +50,15 @@ dependencies {
 
     // https://mvnrepository.com/artifact/org.jsoup/jsoup
     compile group: 'org.jsoup', name: 'jsoup', version: '1.10.1'
-    compile 'com.android.support:appcompat-v7:25.1.0'
-    compile 'com.facebook.android:facebook-android-sdk:4.+'
-    compile 'com.android.support:support-v4:25.1.0'
-    compile 'com.android.support:design:25.1.0'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.facebook.android:facebook-android-sdk:4.24.0'
+    compile 'com.android.support:support-v4:25.3.1'
     testCompile 'junit:junit:4.12'
-    compile 'com.google.android.gms:play-services-appindexing:8.4.0'
+    compile 'com.google.android.gms:play-services-appindexing:9.8.0'
 
     // https://mvnrepository.com/artifact/com.jayway.jsonpath/json-path
     compile (group: 'com.jayway.jsonpath', name: 'json-path', version: '2.2.0', {
         exclude group: 'org.ow2.asm' })
     compile 'com.android.support:gridlayout-v7:25.3.1'
-    compile 'com.android.support:design:25.4.0'
+    compile 'com.android.support:design:25.3.1'
 }

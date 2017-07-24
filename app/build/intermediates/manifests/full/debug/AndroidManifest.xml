@@ -67,39 +67,18 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <activity android:name="com.example.a.headlinereader.Add" />
-        <activity android:name="com.example.a.headlinereader.AddKeyword" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
-        </activity>
-        <activity android:name="com.example.a.headlinereader.AddCategory" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
-        </activity>
+        <activity
+            android:name="com.example.a.headlinereader.AddKeyword"
+            android:parentActivityName="com.example.a.headlinereader.MainActivity" />
+        <activity
+            android:name="com.example.a.headlinereader.AddCategory"
+            android:parentActivityName="com.example.a.headlinereader.MainActivity" />
         <activity
             android:name="com.example.a.headlinereader.AddArticleSource"
-            android:label="title_activity_child"
-            android:parentActivityName="com.example.a.headlinereader.MainActivity" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
-        </activity>
-        <activity
-            android:name="com.example.a.headlinereader.ViewTables"
-            android:parentActivityName="com.example.a.headlinereader.MainActivity" >
-        </activity>
+            android:parentActivityName="com.example.a.headlinereader.MainActivity" />
         <activity
             android:name="com.example.a.headlinereader.ViewKeyword"
             android:parentActivityName="com.example.a.headlinereader.MainActivity" />
-        <activity
-            android:name="com.example.a.headlinereader.ViewCategory"
-            android:parentActivityName="com.example.a.headlinereader.MainActivity" />
-        <activity
-            android:name="com.example.a.headlinereader.ViewArticleSource"
-            android:parentActivityName="com.example.a.headlinereader.MainActivity" />
-        <activity android:name="com.example.a.headlinereader.Search" />
         <activity android:name="com.facebook.CustomTabMainActivity" />
         <!--
          The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
@@ -115,9 +94,16 @@
             android:authorities="com.example.a.headlinereader.FacebookInitProvider"
             android:exported="false" />
 
-        <meta-data
-            android:name="android.support.VERSION"
-            android:value="25.4.0" />
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.example.a.headlinereader.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
     </application>
 
 </manifest>

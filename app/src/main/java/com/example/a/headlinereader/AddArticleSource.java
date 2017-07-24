@@ -15,19 +15,25 @@ import com.facebook.HttpMethod;
 import org.json.JSONObject;
 
 public class AddArticleSource extends AppCompatActivity {
+    private Intent mainActIntent;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_article_source);
         setTitle("Add Article Source");
+        mainActIntent = new Intent(this, MainActivity.class);
+        mainActIntent.putExtra("view", 2);
+    }
 
-        //create the back button
-        try {
-            getActionBar().setDisplayHomeAsUpEnabled(true);
-        } catch (Exception e) {
-            e.printStackTrace();
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle item selection
+        if (item.getItemId() == android.R.id.home) {
+            startActivity(mainActIntent);
+            return true;
         }
+        else return super.onOptionsItemSelected(item);
     }
 
     //set up back button's function
@@ -76,6 +82,6 @@ public class AddArticleSource extends AppCompatActivity {
                 }
         ).executeAsync();
 
-        startActivity(new Intent(this, MainActivity.class));
+        startActivity(mainActIntent);
     }
 }

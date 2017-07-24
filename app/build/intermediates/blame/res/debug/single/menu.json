@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_show.xml",
+        "source": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\src\\main\\res\\menu\\menu_show.xml"
+    },
+    {
         "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_show.xml",
         "source": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\src\\main\\res\\menu\\menu_show.xml"
     }

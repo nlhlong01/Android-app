@@ -87,6 +87,9 @@ public class MainActivity extends FragmentActivity {
         tabLayout = (TabLayout) findViewById(R.id.tabLayout);
         tabLayout.addOnTabSelectedListener(new TabLayout.ViewPagerOnTabSelectedListener(mPager));
         mPager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(tabLayout));
+        //Bundle bundle = getIntent().getExtras();
+        int currentView = getIntent().getIntExtra("view", 0);
+        mPager.setCurrentItem(currentView);
 
         //create new access token based on app access token
         accessToken = new AccessToken("388029638213907|UVePs5EUXeidxjlOQNLQjITIiQk",
@@ -286,12 +289,6 @@ public class MainActivity extends FragmentActivity {
         @Override
         public void onActivityCreated(Bundle savedInstanceState) {
             super.onActivityCreated(savedInstanceState);
-            /*List Cheeses = new ArrayList();
-            Cheeses.add("one");
-            Cheeses.add("two");
-
-            setListAdapter(new ArrayAdapter<String>(getActivity(),
-                    android.R.layout.simple_list_item_1, Cheeses));*/
         }
 
         /*@Override
@@ -318,17 +315,15 @@ public class MainActivity extends FragmentActivity {
     public void clickData(View v) {
         //for view options
         Intent intent = new Intent(this, ViewKeyword.class);
-        Bundle bundle = new Bundle();
         if (v.getId() == R.id.btnViewKeyword) {
-            bundle.putString("type", "Keyword");
+            intent.putExtra("table", DbContract.Keyword.TABLE_NAME);
         }
         if (v.getId() == R.id.btnViewCategory) {
-            bundle.putString("type", "Category");
+            intent.putExtra("table", DbContract.Category.TABLE_NAME);
         }
         if (v.getId() == R.id.btnViewArcSrc) {
-            bundle.putString("type", "Article Source");
+            intent.putExtra("table", DbContract.ArticleSource.TABLE_NAME);
         }
-        intent.putExtras(bundle);
         startActivity(intent);
     }
 

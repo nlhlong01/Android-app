@@ -1,7 +1,7 @@
-#Sun Jul 23 21:26:13 CEST 2017
-base.0=C\:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e34a1b675892b5e0bd67f532d7e457964342119f
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_db00facb788ff8660ebc3365ba09802dff418e0d\\classes.dex
-base.1=C\:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_db00facb788ff8660ebc3365ba09802dff418e0d
-file.0=C\:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e34a1b675892b5e0bd67f532d7e457964342119f\\classes.dex
+#Mon Jul 24 15:15:04 CEST 2017
+base.0=C\:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6dcfba6310a16f725a277a60e4bbde4d15fc2110
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_da1dbc767b2fbf0a8ae00b2c4a26e1c1ebeae7c3\\classes.dex
+base.1=C\:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_da1dbc767b2fbf0a8ae00b2c4a26e1c1ebeae7c3
+file.0=C\:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6dcfba6310a16f725a277a60e4bbde4d15fc2110\\classes.dex

@@ -24,18 +24,22 @@ public class ViewKeyword extends AppCompatActivity {
     int rowCount;
     String tableName;
     CheckBox cbSelectAll;
-    String dataType;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_view_keyword);
+        try {
+            getActionBar().setDisplayHomeAsUpEnabled(true);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
         tableLayout = (TableLayout) findViewById(R.id.tableLayout);
         checkBoxList = new ArrayList<>();
 //        cbSelectAll = (CheckBox) findViewById(R.id.cbSelectAll);
 
         //find out which type of data is going to be shown
-        Bundle bundle = getIntent().getExtras();
+        /*Bundle bundle = getIntent().getExtras();
         dataType = bundle.getString("type");
         setTitle(dataType);
 
@@ -51,7 +55,10 @@ public class ViewKeyword extends AppCompatActivity {
         else  {
             tableName = DbContract.ArticleSource.TABLE_NAME;
             sortOrder = DbContract.ArticleSource._ID + " ASC";
-        }
+        }*/
+        tableName = getIntent().getStringExtra("table");
+        setTitle(tableName);
+        String sortOrder = "_id ASC";
         new showTables().execute(tableName, sortOrder);
         rowCount = 0;
     }
@@ -69,9 +76,15 @@ public class ViewKeyword extends AppCompatActivity {
         if (item.getItemId() == R.id.menu_delete) {
             deleteData();
             Bundle bundle = new Bundle();
-            bundle.putString("type", dataType);
+            bundle.putString("table", tableName);
             Intent intent = new Intent(this, ViewKeyword.class);
             intent.putExtras(bundle);
+            startActivity(intent);
+            return true;
+        }
+        if (item.getItemId() == android.R.id.home) {
+            Intent intent = new Intent(this, MainActivity.class);
+            intent.putExtra("view", 1);
             startActivity(intent);
             return true;
         }
@@ -90,17 +103,11 @@ public class ViewKeyword extends AppCompatActivity {
 
             int columnCount = cursor.getColumnCount();
             String cols[] = new String[columnCount];
-            /*int indexId = cursor.getColumnIndexOrThrow(DbContract.Keyword._ID);
-            int indexCatId = cursor.getColumnIndexOrThrow(DbContract.Keyword.CATEGORY_ID);
-            int indexKeyword = cursor.getColumnIndexOrThrow(DbContract.Keyword.KEYWORD);*/
             if (cursor.moveToFirst()) {
                 do {
                     for (int i = 0; i <= cols.length - 1; i++) {
                         cols[i] = cursor.getString(i);
                     }
-                    /*String strId = cursor.getString(indexId);
-                    String strCatId = cursor.getString(indexCatId);
-                    String strKeyword = cursor.getString(indexKeyword);*/
                     createNewRow(cols);
                 } while (cursor.moveToNext());
             }

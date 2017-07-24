@@ -18,23 +18,22 @@ import java.util.List;
 public class AddKeyword extends AppCompatActivity {
     int categoryId;
     Spinner spnCategory;
+    private Intent mainActIntent;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_keyword);
         setTitle("Add Keyword");
+        mainActIntent = new Intent(this, MainActivity.class);
+        mainActIntent.putExtra("view", 2);
 
         //create a spinner for category
         String sortOrder = DbContract.Category._ID + " ASC";
         Cursor spinnerCursor = MainActivity.db.query(
                 DbContract.Category.TABLE_NAME,
                 new String[]{DbContract.Category.CATEGORY},
-                null,
-                null,
-                null,
-                null,
-                sortOrder);
+                null, null, null, null, sortOrder);
         int index = spinnerCursor.getColumnIndexOrThrow(DbContract.Category.CATEGORY);
         List<String> spinnerList = new ArrayList<>();
         spnCategory = (Spinner) findViewById(R.id.spnCategory);
@@ -48,25 +47,16 @@ public class AddKeyword extends AppCompatActivity {
         /*ArrayAdapter<String> lvAdapter = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item,
                 spinnerList);*/
         spnCategory.setAdapter(adapter);
-
-        try {
-            getActionBar().setDisplayHomeAsUpEnabled(true);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
     }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-
-        return getFragmentManager().popBackStackImmediate();
-        /*switch (item.getItemId()) {
-            case android.R.id.home:
-                NavUtils.navigateUpFromSameTask(this);
-                return true;
-            default:
-                return super.onOptionsItemSelected(item);
-        }*/
+        // Handle item selection
+        if (item.getItemId() == android.R.id.home) {
+            startActivity(mainActIntent);
+            return true;
+        }
+        else return super.onOptionsItemSelected(item);
     }
 
     public void clickReaction(View v){
@@ -80,11 +70,7 @@ public class AddKeyword extends AppCompatActivity {
         storingCursor = MainActivity.db.query(
                 DbContract.Category.TABLE_NAME,
                 new String[]{DbContract.Category._ID, DbContract.Category.CATEGORY},
-                whereClause,
-                null,
-                null,
-                null,
-                null);
+                whereClause, null, null, null, null);
         int idIndex = storingCursor.getColumnIndexOrThrow(DbContract.ArticleSource._ID);
         categoryId = 0;
         if (storingCursor.moveToFirst()) {
@@ -95,8 +81,7 @@ public class AddKeyword extends AppCompatActivity {
         ContentValues values = new ContentValues();
         values.put(DbContract.Keyword.KEYWORD, keyword);
         values.put(DbContract.Keyword.CATEGORY_ID, categoryId);
-        long newRowId = MainActivity.db.insert(DbContract.Keyword.TABLE_NAME
-                , null, values);
-        startActivity(new Intent(this, MainActivity.class));
+        long newRowId = MainActivity.db.insert(DbContract.Keyword.TABLE_NAME, null, values);
+        startActivity(mainActIntent);
     }
 }

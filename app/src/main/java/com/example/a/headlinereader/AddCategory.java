@@ -9,25 +9,26 @@ import android.view.View;
 import android.widget.EditText;
 
 public class AddCategory extends AppCompatActivity {
+    private Intent mainActIntent;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_category);
         setTitle("Add Category");
-
-        //create the back button
-        try {
-            getActionBar().setDisplayHomeAsUpEnabled(true);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+        mainActIntent = new Intent(this, MainActivity.class);
+        mainActIntent.putExtra("view", 2);
     }
 
     //set up back button's function
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        return super.onOptionsItemSelected(item);
+        // Handle item selection
+        if (item.getItemId() == android.R.id.home) {
+            startActivity(mainActIntent);
+            return true;
+        }
+        else return super.onOptionsItemSelected(item);
     }
 
     public void clickReaction (View v){
@@ -39,6 +40,6 @@ public class AddCategory extends AppCompatActivity {
         long newRowId = MainActivity.db.insert(DbContract.Category.TABLE_NAME
                 , null, values);
 
-        startActivity(new Intent(this, MainActivity.class));
+        startActivity(mainActIntent);
     }
 }

@@ -3,12 +3,102 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\A\Dropbox\HeadlineReader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\A\.android\build-cache\445426257f9829141667b4094e39210db51311f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2f68efaaab1ce68c765b4510a48a149bb549746\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\.android\build-cache\0b92cd282fa04e4e3fe7b97244576b435764ff51\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2de3f069c2c1be7807a9c39b5cf9168275cb5bfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\.android\build-cache\25234d5177932acc27ad5739150e7b34ee17935c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3988e285f8bac6f6bf8cd4bf79e24dc9f97ccf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\.android\build-cache\417ce1de917c2f5aee55f91bcad9d4e278883f4e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_434fa1d48d52ddfe71142728af2ddb33c2cb9300\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\.android\build-cache\65bff9828d48c5133f5cdf697246d0ea14056bcb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a22c9c1ab2d97191567a641d24ec1c54bdd024ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\.android\build-cache\d8bc88bfc56fced02ac3b0ff099983957af09e50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4845df71b680220167f63c6a9d2d62b34dec1f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a0da07dc84ad4ee05b3d6d96793d59bcd491e8d">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_da1dbc767b2fbf0a8ae00b2c4a26e1c1ebeae7c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\.android\build-cache\849deb1b34f871ab39695caccd5b240885151aee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e0a24884395490c4bc1f352ecb44c6b01b27334\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\.android\build-cache\f60649e4e244863a8ded5b082532c10ba2ce267b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0802e33f006b0457889c33cb9dd9cfbb98ca28e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\A\Dropbox\HeadlineReader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_db00facb788ff8660ebc3365ba09802dff418e0d\classes.dex" />
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6dcfba6310a16f725a277a60e4bbde4d15fc2110\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\.android\build-cache\187859e69d1ee549733ee537f713a33504dfae44\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_096a3d18c8a23ad75633fa4f1266b66c83ac079f\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -18,6 +108,96 @@
         revision="25.0.0"
         sha1="84b7396b8a3f65b6dcd8f9ff195c73142d280525">
         <dex dex="C:\Users\A\Dropbox\HeadlineReader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e34a1b675892b5e0bd67f532d7e457964342119f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\.android\build-cache\4de3fce305f489679cbb2ec4e04826e0c59c74be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c814ea73307f3472d1e6461d22aedafe6d1a8514\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\.android\build-cache\67143a1fb92cbc92a845c7b0fc01b095db9b2488\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fcb5990c4726e5647f33090e48952984ea93d9ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\.android\build-cache\38401c5a8ddaff2d608c4c7c65e8c49a2ac8518c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6eb92bd3d1d9e11539cf5f7f7e9cc4fd6eda6fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\Dropbox\HeadlineReader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_db00facb788ff8660ebc3365ba09802dff418e0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\.android\build-cache\72f028e0bd616c6148bf5d9f786431ba69437ae9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40f1e3beda0d0186eb6215c7225fc2713c36f895\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\.android\build-cache\d8252cf6ad3a5389455ffce3329f16a6cf5981eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3628b63ff20f2f90e604116919080c4304a28429\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\.android\build-cache\4cf8ea4dc7133157a3823b2350bb1bca03370f69\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c703f6823aa7613015d6deb32b1e6f23f4980939\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\.android\build-cache\ddf98baeb015082e7c33faed372e078880093217\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_777033c1bab31cd3c8c1b848bb58ef4d6e57548d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\.android\build-cache\6743614e9ecc226a7178f3389414e47c323df8d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79911895a373d1729ab80d4fecbb0f769fc334f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_5dab0e566ef3e53194a984539598c0638db10d27\classes.dex" />
     </item>
 
 </items>
