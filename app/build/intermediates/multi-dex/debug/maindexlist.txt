@@ -6,9 +6,9 @@ android/support/design/widget/MathUtils.class
 org/apache/http/impl/cookie/BrowserCompatSpecFactory.class
 android/support/design/widget/FloatingActionButtonIcs.class
 android/support/v4/app/NotificationCompat$Extender.class
-android/support/v4/view/MenuCompat.class
 org/apache/commons/codec/language/Caverphone.class
 org/apache/http/conn/params/ConnConnectionParamBean.class
+android/support/v4/view/MenuCompat.class
 android/support/v4/media/session/MediaControllerCompat.class
 org/apache/http/impl/execchain/HttpResponseProxy.class
 android/support/annotation/IdRes.class
@@ -53,8 +53,8 @@ org/apache/http/impl/client/SystemDefaultHttpClient.class
 android/support/multidex/MultiDex.class
 android/support/v4/app/FragmentActivity.class
 android/support/v4/media/session/MediaSessionCompat$1.class
-org/apache/http/conn/scheme/SchemeLayeredSocketFactoryAdaptor2.class
 android/support/v4/app/FragmentTabHost.class
+org/apache/http/conn/scheme/SchemeLayeredSocketFactoryAdaptor2.class
 org/apache/http/client/params/ClientPNames.class
 android/support/customtabs/ICustomTabsService.class
 android/support/design/widget/FloatingActionButton$1.class
@@ -170,8 +170,8 @@ android/support/v7/widget/OpReorderer$Callback.class
 com/google/android/gms/internal/zzrk.class
 android/support/v4/media/MediaBrowserCompat$MediaItem$Flags.class
 org/apache/http/client/methods/AbstractExecutionAwareRequest.class
-org/apache/http/impl/io/AbstractMessageParser.class
 android/support/v7/app/ActionBarActivity.class
+org/apache/http/impl/io/AbstractMessageParser.class
 com/google/android/gms/common/util/zzs.class
 org/apache/http/protocol/HttpResponseInterceptorList.class
 android/support/v4/net/ConnectivityManagerCompat$BaseConnectivityManagerCompatImpl.class
@@ -633,8 +633,8 @@ org/apache/http/impl/auth/RFC2617Scheme.class
 android/support/v4/util/ContainerHelpers.class
 android/support/annotation/NonNull.class
 android/support/design/widget/CoordinatorLayout$Behavior.class
-com/google/android/gms/internal/zzqo$zza.class
 org/apache/http/conn/MultihomePlainSocketFactory.class
+com/google/android/gms/internal/zzqo$zza.class
 org/apache/http/annotation/Contract.class
 org/apache/http/impl/client/ClientParamsStack.class
 org/apache/http/impl/cookie/BestMatchSpecFactory.class
@@ -700,8 +700,8 @@ android/support/design/widget/BottomSheetBehavior$SavedState.class
 android/support/v4/view/ViewPager$PagerObserver.class
 android/support/design/widget/AppBarLayout.class
 com/google/android/gms/common/internal/ReflectedParcelable.class
-com/google/android/gms/common/internal/SignInButtonConfig.class
 com/google/android/gms/common/zze.class
+com/google/android/gms/common/internal/SignInButtonConfig.class
 org/apache/http/impl/client/cache/CacheConfig.class
 com/facebook/share/model/ShareLinkContent.class
 android/support/v4/widget/ViewDragHelper.class

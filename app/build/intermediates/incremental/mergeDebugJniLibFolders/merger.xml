@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/amcprak/Dropbox/Android-app/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/amcprak/Dropbox/Android-app/app/src/debug/jniLibs"/></dataSet></merger>

@@ -1,7 +1,7 @@
-#Mon Jul 24 15:15:04 CEST 2017
-base.0=C\:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6dcfba6310a16f725a277a60e4bbde4d15fc2110
+#Thu Jul 27 17:30:22 CEST 2017
+base.0=/home/amcprak/Dropbox/Android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f29291a46ecb517079ea9594755ffb4906569b24
 renamed.1=classes2.dex
 renamed.0=classes.dex
-file.1=C\:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_da1dbc767b2fbf0a8ae00b2c4a26e1c1ebeae7c3\\classes.dex
-base.1=C\:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_da1dbc767b2fbf0a8ae00b2c4a26e1c1ebeae7c3
-file.0=C\:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6dcfba6310a16f725a277a60e4bbde4d15fc2110\\classes.dex
+file.1=/home/amcprak/Dropbox/Android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a8668647ccd82a0f8f2a2be4fb73fcf8118bd8aa/classes.dex
+base.1=/home/amcprak/Dropbox/Android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a8668647ccd82a0f8f2a2be4fb73fcf8118bd8aa
+file.0=/home/amcprak/Dropbox/Android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f29291a46ecb517079ea9594755ffb4906569b24/classes.dex

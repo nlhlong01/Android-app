@@ -1,226 +1,106 @@
 [
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_btn_colored_text_material.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_tint_spinner.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/color/design_error.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_search_url_text.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_tint_edittext.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\ca33f255ce1fae4a8ecc3995ae5e62c74f044aa2\\output\\res\\color\\design_tint_password_toggle.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/com_facebook_send_button_text_color.xml",
+        "source": "/home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/res/color/com_facebook_send_button_text_color.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_btn_colored_text_material.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/amcprak/.android/build-cache/74dbe7f5a786cbbfacb8344c5241d2f6a4d2108d/output/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\b596a16d274855dd18a914aefa38bd3e6da2cd6e\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/com_facebook_button_text_color.xml",
+        "source": "/home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/res/color/com_facebook_button_text_color.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\ca33f255ce1fae4a8ecc3995ae5e62c74f044aa2\\output\\res\\color\\design_error.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_primary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_search_url_text.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/amcprak/.android/build-cache/74dbe7f5a786cbbfacb8344c5241d2f6a4d2108d/output/res/color/common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\72f028e0bd616c6148bf5d9f786431ba69437ae9\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\72f028e0bd616c6148bf5d9f786431ba69437ae9\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/color/design_tint_password_toggle.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_tint_default.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\b596a16d274855dd18a914aefa38bd3e6da2cd6e\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_send_button_text_color.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\\output\\res\\color\\com_facebook_send_button_text_color.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_button_text_color.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\\output\\res\\color\\com_facebook_button_text_color.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\b596a16d274855dd18a914aefa38bd3e6da2cd6e\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_tint_default.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\b596a16d274855dd18a914aefa38bd3e6da2cd6e\\output\\res\\color\\common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\color\\design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_send_button_text_color.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\\output\\res\\color\\com_facebook_send_button_text_color.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\b596a16d274855dd18a914aefa38bd3e6da2cd6e\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\color\\design_error.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_button_text_color.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\\output\\res\\color\\com_facebook_button_text_color.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\b596a16d274855dd18a914aefa38bd3e6da2cd6e\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4bcb0c31585db80b8e9ea05aeb4fafd8941e7aa7\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/color/abc_tint_btn_checkable.xml"
     }
 ]

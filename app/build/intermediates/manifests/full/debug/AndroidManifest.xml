@@ -23,10 +23,10 @@
         android:allowBackup="true"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="NewsAnalyzer"
+        android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.a.headlinereader.MainActivity" >
+        <activity android:name="com.example.a.fakenewscheck.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -68,17 +68,18 @@
             android:value="@integer/google_play_services_version" />
 
         <activity
-            android:name="com.example.a.headlinereader.AddKeyword"
-            android:parentActivityName="com.example.a.headlinereader.MainActivity" />
+            android:name="com.example.a.fakenewscheck.AddKeyword"
+            android:parentActivityName="com.example.a.fakenewscheck.TabbedActivity" />
         <activity
-            android:name="com.example.a.headlinereader.AddCategory"
-            android:parentActivityName="com.example.a.headlinereader.MainActivity" />
+            android:name="com.example.a.fakenewscheck.AddCategory"
+            android:parentActivityName="com.example.a.fakenewscheck.TabbedActivity" />
         <activity
-            android:name="com.example.a.headlinereader.AddArticleSource"
-            android:parentActivityName="com.example.a.headlinereader.MainActivity" />
+            android:name="com.example.a.fakenewscheck.AddArticleSource"
+            android:parentActivityName="com.example.a.fakenewscheck.TabbedActivity" />
         <activity
-            android:name="com.example.a.headlinereader.ViewKeyword"
-            android:parentActivityName="com.example.a.headlinereader.MainActivity" />
+            android:name="com.example.a.fakenewscheck.ViewDatabase"
+            android:parentActivityName="com.example.a.fakenewscheck.TabbedActivity" />
+        <activity android:name="com.example.a.fakenewscheck.TabbedActivity" />
         <activity android:name="com.facebook.CustomTabMainActivity" />
         <!--
          The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically

@@ -1,7 +1,7 @@
--injars 'C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
--outjars 'C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+-injars /home/amcprak/Dropbox/Android-app/app/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar
+-outjars /home/amcprak/Dropbox/Android-app/app/build/intermediates/multi-dex/debug/componentClasses.jar
 
--libraryjars 'C:\Users\A\AppData\Local\Android\Sdk\build-tools\25.0.0\lib\shrinkedAndroid.jar'
+-libraryjars /home/amcprak/Android/Sdk/build-tools/25.0.0/lib/shrinkedAndroid.jar
 
 -forceprocessing
 -dontoptimize
@@ -10,7 +10,7 @@
 -dontpreverify
 -dontnote **
 -dontwarn **
--printconfiguration 'C:\Users\A\Dropbox\HeadlineReader (tested with version control)\app\build\intermediates\multi-dex\debug\components.flags'
+-printconfiguration /home/amcprak/Dropbox/Android-app/app/build/intermediates/multi-dex/debug/components.flags
 
 
 -keep public class * extends android.app.Instrumentation {

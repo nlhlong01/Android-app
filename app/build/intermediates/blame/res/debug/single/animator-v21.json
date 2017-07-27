@@ -1,10 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\ca33f255ce1fae4a8ecc3995ae5e62c74f044aa2\\output\\res\\animator-v21\\design_appbar_state_list_animator.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\HeadlineReader (tested with version control)\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/animator-v21/design_appbar_state_list_animator.xml"
     }
 ]
