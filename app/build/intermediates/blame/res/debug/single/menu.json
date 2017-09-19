@@ -1,18 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main_screen.xml",
-        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\menu\\menu_main_screen.xml"
+        "merged": "D:\\clone\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view_database.xml",
+        "source": "D:\\clone\\Android-app\\app\\src\\main\\res\\menu\\menu_view_database.xml"
     },
     {
-        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main_screen.xml",
-        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\menu\\menu_main_screen.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view_database.xml",
-        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\menu\\menu_view_database.xml"
-    },
-    {
-        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view_database.xml",
-        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\menu\\menu_view_database.xml"
+        "merged": "D:\\clone\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main_screen.xml",
+        "source": "D:\\clone\\Android-app\\app\\src\\main\\res\\menu\\menu_main_screen.xml"
     }
 ]

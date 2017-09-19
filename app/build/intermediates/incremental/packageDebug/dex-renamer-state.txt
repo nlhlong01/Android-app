@@ -1,4 +1,7 @@
-#Tue Aug 22 11:24:23 CEST 2017
-base.0=/home/amcprak/Dropbox/Android-app/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/home/amcprak/Dropbox/Android-app/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+#Tue Sep 19 18:14:27 CEST 2017
+base.0=D\:\\clone\\Android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a8e0a54aca0278bbe7fed7b762245483531c7a4f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\clone\\Android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d9186e3eab7495fddf4f1bff3c101d295c77f6a3\\classes.dex
+base.1=D\:\\clone\\Android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d9186e3eab7495fddf4f1bff3c101d295c77f6a3
+file.0=D\:\\clone\\Android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a8e0a54aca0278bbe7fed7b762245483531c7a4f\\classes.dex

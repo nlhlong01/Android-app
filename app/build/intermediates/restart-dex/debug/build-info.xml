@@ -1,93 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="23"
-    build-mode="COLD"
-    density="xxhdpi"
+    abi="x86_64,x86"
+    api-level="25"
+    build-mode="FULL"
+    density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1503344374607"
-    token="336422491351356870"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="1505837639226"
+    token="-2074790830979548663"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1168" />
+        duration="2097" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="11" />
+        duration="3272" />
     <task
         name="verifier"
-        duration="32" />
+        duration="1098" />
 
     <artifact
-        location="/home/amcprak/Dropbox/Android-app/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="/home/amcprak/Dropbox/Android-app/app/build/outputs/apk/app-debug.apk"
+        location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\clone\Android-app\app\build\outputs\apk\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1503340822824"
+        timestamp="1505837639226"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/amcprak/Dropbox/Android-app/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/home/amcprak/Dropbox/Android-app/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="/home/amcprak/Dropbox/Android-app/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/home/amcprak/Dropbox/Android-app/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/home/amcprak/Dropbox/Android-app/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/home/amcprak/Dropbox/Android-app/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/home/amcprak/Dropbox/Android-app/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/home/amcprak/Dropbox/Android-app/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/home/amcprak/Dropbox/Android-app/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/home/amcprak/Dropbox/Android-app/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/home/amcprak/Dropbox/Android-app/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/home/amcprak/Dropbox/Android-app/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1503344242289"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/amcprak/Dropbox/Android-app/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1503344374607"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/amcprak/Dropbox/Android-app/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="D:\clone\Android-app\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/home/amcprak/Dropbox/Android-app/app/build/outputs/apk/app-debug.apk"
+            location="D:\clone\Android-app\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

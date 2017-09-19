@@ -1,10 +1,6 @@
 [
     {
-        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "C:\\home\\amcprak\\.android\\build-cache\\97d8aa2c88ec049ac4ca5918e641164ba2ac446a\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "merged": "D:\\clone\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

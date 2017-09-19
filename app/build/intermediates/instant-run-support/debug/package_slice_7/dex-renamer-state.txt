@@ -1,4 +1,4 @@
-#Mon Aug 21 13:37:27 CEST 2017
-base.0=/home/amcprak/Dropbox/Android-app/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+#Tue Sep 19 18:14:26 CEST 2017
+base.0=D\:\\clone\\Android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
 renamed.0=classes.dex
-file.0=/home/amcprak/Dropbox/Android-app/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex
+file.0=D\:\\clone\\Android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

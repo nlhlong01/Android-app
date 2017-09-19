@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/home/amcprak/Dropbox/Android-app/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="D:\clone\Android-app\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/amcprak/Dropbox/Android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f29291a46ecb517079ea9594755ffb4906569b24/classes.dex" />
+        <dex dex="D:\clone\Android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d9186e3eab7495fddf4f1bff3c101d295c77f6a3\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/amcprak/Dropbox/Android-app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="D:\clone\Android-app\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="5d35bbbca6d613ab22fc0166ef2570c9de54622e">
-        <dex dex="/home/amcprak/Dropbox/Android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a8668647ccd82a0f8f2a2be4fb73fcf8118bd8aa/classes.dex" />
+        sha1="4ed510055f0ee2d5e16ea3c59ac5f4e4511e5ef3">
+        <dex dex="D:\clone\Android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a8e0a54aca0278bbe7fed7b762245483531c7a4f\classes.dex" />
     </item>
 
 </items>

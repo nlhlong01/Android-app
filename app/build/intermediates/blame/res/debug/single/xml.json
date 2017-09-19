@@ -1,10 +1,6 @@
 [
     {
-        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
-        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\xml\\searchable.xml"
-    },
-    {
-        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
-        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\xml\\searchable.xml"
+        "merged": "D:\\clone\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "D:\\clone\\Android-app\\app\\src\\main\\res\\xml\\searchable.xml"
     }
 ]
