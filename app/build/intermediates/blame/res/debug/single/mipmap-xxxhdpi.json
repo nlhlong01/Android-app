@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
-        "source": "/home/amcprak/Dropbox/Android-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
 ]

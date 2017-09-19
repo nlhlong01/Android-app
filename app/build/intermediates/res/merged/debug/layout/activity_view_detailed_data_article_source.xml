@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a.fakenewscheck.ViewDetailedDataArticleSource">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="604dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tvDetDataWbst"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/tvDetDataCat"
+                    android:layout_alignStart="@+id/tvDetDataCat"
+                    android:layout_below="@+id/tvDetDataCat"
+                    android:paddingBottom="15dp"
+                    android:paddingLeft="15dp"
+                    android:text="TextView"
+                    android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+                <TextView
+                    android:id="@+id/tvDetDataCat"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/tvDetDataUsrname"
+                    android:layout_alignStart="@+id/tvDetDataUsrname"
+                    android:layout_below="@+id/tvDetDataUsrname"
+                    android:paddingBottom="15dp"
+                    android:paddingLeft="15dp"
+                    android:text="TextView"
+                    android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+                <TextView
+                    android:id="@+id/tvDetDataUsrname"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/tvDetDataFbId"
+                    android:layout_alignStart="@+id/tvDetDataFbId"
+                    android:layout_below="@+id/tvDetDataFbId"
+                    android:paddingBottom="15dp"
+                    android:paddingLeft="15dp"
+                    android:text="TextView"
+                    android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+                <TextView
+                    android:id="@+id/tvDetDataFbId"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/ratingBar"
+                    android:layout_toStartOf="@+id/ivDetDataPicture"
+                    android:paddingBottom="15dp"
+                    android:paddingLeft="15dp"
+                    android:text="TextView"
+                    android:textAppearance="@android:style/TextAppearance.Material.Medium"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true" />
+
+                <ImageView
+                    android:id="@+id/ivDetDataPicture"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    app:srcCompat="@drawable/com_facebook_auth_dialog_cancel_background" />
+
+                <TextView
+                    android:id="@+id/tvDetDataName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/ivDetDataPicture"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="13dp"
+                    android:text="TextView"
+                    android:textAppearance="@android:style/TextAppearance.Material.Headline"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvDetDataAbt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/tvDetDataWbst"
+                    android:layout_alignStart="@+id/tvDetDataWbst"
+                    android:layout_below="@+id/tvDetDataWbst"
+                    android:paddingBottom="15dp"
+                    android:paddingLeft="15dp"
+                    android:text="TextView"
+                    android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+                <RatingBar
+                    android:id="@+id/ratingBar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/textView9"
+                    android:layout_centerHorizontal="true" />
+
+                <TextView
+                    android:id="@+id/textView9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Credibility"
+                    android:textAppearance="@android:style/TextAppearance.Material.Medium"
+                    android:layout_below="@+id/tvDetDataName"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="15dp" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+
+
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

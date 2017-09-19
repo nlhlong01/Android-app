@@ -25,8 +25,8 @@ android/support/multidex/MultiDexExtractor.class
 android/support/v4/media/MediaBrowserCompat$Subscription.class
 android/support/v4/app/NotificationCompatBase$UnreadConversation.class
 android/support/design/widget/BaseTransientBottomBar$BaseCallback.class
-org/apache/http/protocol/HttpRequestHandlerRegistry.class
 org/apache/http/impl/client/cache/CacheValidityPolicy.class
+org/apache/http/protocol/HttpRequestHandlerRegistry.class
 android/support/v7/widget/AdapterHelper$UpdateOp.class
 org/apache/http/params/AbstractHttpParams.class
 android/support/v4/net/ConnectivityManagerCompat$JellyBeanConnectivityManagerCompatImpl.class
@@ -53,8 +53,8 @@ org/apache/http/impl/client/SystemDefaultHttpClient.class
 android/support/multidex/MultiDex.class
 android/support/v4/app/FragmentActivity.class
 android/support/v4/media/session/MediaSessionCompat$1.class
-android/support/v4/app/FragmentTabHost.class
 org/apache/http/conn/scheme/SchemeLayeredSocketFactoryAdaptor2.class
+android/support/v4/app/FragmentTabHost.class
 org/apache/http/client/params/ClientPNames.class
 android/support/customtabs/ICustomTabsService.class
 android/support/design/widget/FloatingActionButton$1.class
@@ -177,8 +177,8 @@ org/apache/http/protocol/HttpResponseInterceptorList.class
 android/support/v4/net/ConnectivityManagerCompat$BaseConnectivityManagerCompatImpl.class
 org/apache/http/params/SyncBasicHttpParams.class
 android/support/v4/media/session/MediaSessionCompat$Token.class
-org/apache/http/protocol/HttpService.class
 org/apache/http/impl/client/cache/CachingHttpClient.class
+org/apache/http/protocol/HttpService.class
 android/support/v7/widget/RecyclerView$LayoutManager.class
 android/support/v7/widget/RecyclerView$5.class
 android/support/design/widget/CoordinatorLayout$SavedState.class
@@ -189,6 +189,7 @@ android/support/v4/media/TransportMediator.class
 android/support/v4/media/MediaBrowserCompat$MediaBrowserImplBase.class
 com/google/android/gms/common/internal/ValidateAccountRequest.class
 android/support/v4/media/MediaBrowserCompat$ConnectionCallback$ConnectionCallbackInternal.class
+org/apache/http/osgi/impl/OSGiClientBuilderFactory.class
 android/support/annotation/CallSuper.class
 org/apache/http/impl/conn/tsccm/WaitingThread.class
 android/support/v4/media/MediaBrowserCompat$MediaBrowserServiceCallbackImpl.class
@@ -399,8 +400,8 @@ android/support/v7/widget/RecyclerView$RecyclerViewDataObserver.class
 android/support/v7/widget/RecyclerView$ChildDrawingOrderCallback.class
 org/apache/http/message/AbstractHttpMessage.class
 android/support/v4/widget/ViewDragHelper$Callback.class
-org/apache/http/entity/ByteArrayEntity.class
 org/apache/http/impl/conn/SingleClientConnManager.class
+org/apache/http/entity/ByteArrayEntity.class
 android/support/design/widget/BaseTransientBottomBar$6.class
 android/support/design/widget/BottomSheetBehavior$State.class
 android/support/v4/net/ConnectivityManagerCompat$ConnectivityManagerCompatImpl.class
@@ -411,8 +412,8 @@ android/support/v4/media/TransportPerformer.class
 org/apache/http/impl/client/CloseableHttpResponseProxy.class
 android/support/v4/media/MediaBrowserCompat$MediaBrowserImpl.class
 android/support/multidex/MultiDex$V14.class
-org/apache/http/protocol/HttpService$HttpRequestHandlerResolverAdapter.class
 org/apache/http/entity/mime/content/ByteArrayBody.class
+org/apache/http/protocol/HttpService$HttpRequestHandlerResolverAdapter.class
 android/support/v4/media/session/MediaSessionCompat$MediaSessionImpl.class
 org/apache/http/client/utils/URIUtils.class
 org/apache/http/conn/scheme/SchemeLayeredSocketFactory.class
@@ -472,8 +473,8 @@ org/apache/http/conn/ManagedClientConnection.class
 com/google/android/gms/internal/zznk$zza.class
 com/google/firebase/FirebaseException.class
 android/support/v4/view/NestedScrollingParent.class
-org/apache/http/impl/io/AbstractMessageWriter.class
 org/apache/http/client/protocol/RequestTargetAuthentication.class
+org/apache/http/impl/io/AbstractMessageWriter.class
 android/support/v4/net/ConnectivityManagerCompatApi24.class
 org/apache/http/conn/scheme/SchemeLayeredSocketFactoryAdaptor.class
 android/support/v4/view/ViewPager$4.class
@@ -553,8 +554,8 @@ android/support/annotation/ArrayRes.class
 org/apache/http/message/BasicHeaderValueParser.class
 android/support/v7/widget/ListPopupWindow.class
 android/support/v4/view/animation/FastOutSlowInInterpolator.class
-org/apache/http/impl/AbstractHttpServerConnection.class
 org/apache/http/entity/mime/HttpMultipart.class
+org/apache/http/impl/AbstractHttpServerConnection.class
 android/support/design/widget/BottomSheetBehavior.class
 com/google/android/gms/common/SignInButton.class
 org/apache/http/conn/scheme/HostNameResolver.class
@@ -684,8 +685,8 @@ android/support/v4/view/ViewCompat$JbMr1ViewCompatImpl.class
 org/apache/http/impl/client/ProxyClient.class
 android/support/v7/app/AppCompatDelegateImplBase.class
 android/support/v7/view/menu/CascadingMenuPopup.class
-org/apache/http/impl/DefaultHttpClientConnection.class
 org/apache/http/conn/scheme/SocketFactoryAdaptor.class
+org/apache/http/impl/DefaultHttpClientConnection.class
 android/support/v7/view/menu/MenuBuilder.class
 android/support/v4/view/ViewCompat$ICSViewCompatImpl.class
 org/apache/http/conn/scheme/Scheme.class

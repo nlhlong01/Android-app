@@ -1,314 +1,682 @@
 [
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/notification_template_media_custom.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
-        "source": "/home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/res/layout/com_facebook_activity_layout.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/activity_add_article_source.xml",
-        "source": "/home/amcprak/Dropbox/Android-app/app/src/main/res/layout/activity_add_article_source.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/fragment_pager_search.xml",
-        "source": "/home/amcprak/Dropbox/Android-app/app/src/main/res/layout/fragment_pager_search.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\spinner_item.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
-        "source": "/home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/res/layout/com_facebook_login_fragment.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
-        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/layout/design_navigation_item_header.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_detailed_data_article_source.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_view_detailed_data_article_source.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/notification_template_icon_group.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/spinner_item.xml",
-        "source": "/home/amcprak/Dropbox/Android-app/app/src/main/res/layout/spinner_item.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/activity_add_keyword.xml",
-        "source": "/home/amcprak/Dropbox/Android-app/app/src/main/res/layout/activity_add_keyword.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\60c9694e75aae713a3c30080c49d6947f509f7e5\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
-        "source": "/home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/res/layout/messenger_button_send_blue_large.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
-        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/layout/design_menu_item_action_area.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/notification_template_lines_media.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_detailed_data_article_source.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_view_detailed_data_article_source.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/activity_add_category.xml",
-        "source": "/home/amcprak/Dropbox/Android-app/app/src/main/res/layout/activity_add_category.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\97d8aa2c88ec049ac4ca5918e641164ba2ac446a\\output\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/notification_action_tombstone.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_article_source.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_add_article_source.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
-        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/layout/design_navigation_menu_item.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\97d8aa2c88ec049ac4ca5918e641164ba2ac446a\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
-        "source": "/home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/res/layout/messenger_button_send_white_round.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/select_dialog_item_material.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/fragment_pager_add.xml",
-        "source": "/home/amcprak/Dropbox/Android-app/app/src/main/res/layout/fragment_pager_add.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_keyword.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_add_keyword.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
-        "source": "/home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_screen_toolbar.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\\output\\res\\layout\\messenger_button_send_white_small.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
-        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/layout/design_navigation_item.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
-        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/layout/design_layout_tab_icon.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/notification_template_media.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\97d8aa2c88ec049ac4ca5918e641164ba2ac446a\\output\\res\\layout\\design_text_input_password_icon.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
-        "source": "/home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_fb_page.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\search_fb_page.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/activity_view_article_source.xml",
-        "source": "/home/amcprak/Dropbox/Android-app/app/src/main/res/layout/activity_view_article_source.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
-        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/layout/design_navigation_item_separator.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\97d8aa2c88ec049ac4ca5918e641164ba2ac446a\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/activity_add.xml",
-        "source": "/home/amcprak/Dropbox/Android-app/app/src/main/res/layout/activity_add.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\\output\\res\\layout\\messenger_button_send_white_large.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
-        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/layout/design_layout_tab_text.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_action_menu_layout.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\\output\\res\\layout\\messenger_button_send_blue_round.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_results.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_search_results.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
-        "source": "/home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/res/layout/messenger_button_send_blue_round.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_checkbox_item.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\spinner_checkbox_item.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/notification_template_part_time.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/activity_view_category.xml",
-        "source": "/home/amcprak/Dropbox/Android-app/app/src/main/res/layout/activity_view_category.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
-        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/layout/design_navigation_item_subheader.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/notification_action.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_article_source.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_view_article_source.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\found_article_list.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\found_article_list.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_activity_chooser_view.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_action_bar_up_container.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_fb_page.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\search_fb_page.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/amcprak/Dropbox/Android-app/app/src/main/res/layout/activity_main.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_article_source.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_view_article_source.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_alert_dialog_material.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\\output\\res\\layout\\com_facebook_login_fragment.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/layout/design_layout_snackbar_include.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_alert_dialog_title_material.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_article_source.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_add_article_source.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
-        "source": "/home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/res/layout/messenger_button_send_white_small.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
-        "source": "/home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/res/layout/messenger_button_send_white_large.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_screen_content_include.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_category.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_add_category.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_dialog_title_material.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
-        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/layout/design_bottom_sheet_dialog.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/fragment_pager_database.xml",
-        "source": "/home/amcprak/Dropbox/Android-app/app/src/main/res/layout/fragment_pager_database.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
-        "source": "/home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/res/layout/com_facebook_tooltip_bubble.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
-        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/layout/design_layout_snackbar.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_results.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_search_results.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/activity_view_database.xml",
-        "source": "/home/amcprak/Dropbox/Android-app/app/src/main/res/layout/activity_view_database.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_screen_simple.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_action_bar_title_item.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\97d8aa2c88ec049ac4ca5918e641164ba2ac446a\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_test.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\content_test.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_search_view.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_add.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
-        "source": "/home/amcprak/Dropbox/Android-app/app/src/main/res/layout/activity_login.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
-        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/layout/design_bottom_navigation_item.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
-        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/layout/design_navigation_menu.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\60c9694e75aae713a3c30080c49d6947f509f7e5\\output\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/notification_template_part_chronometer.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\\output\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/activity_page_search.xml",
-        "source": "/home/amcprak/Dropbox/Android-app/app/src/main/res/layout/activity_page_search.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_action_mode_bar.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
-        "source": "/home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/res/layout/design_text_input_password_icon.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\found_article_list.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\found_article_list.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\60c9694e75aae713a3c30080c49d6947f509f7e5\\output\\res\\layout\\messenger_button_send_blue_small.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_select_dialog_material.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_popup_menu_header_item_layout.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pager_database.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\fragment_pager_database.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
-        "source": "/home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/res/layout/messenger_button_send_blue_small.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\\output\\res\\layout\\messenger_button_send_blue_large.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\60c9694e75aae713a3c30080c49d6947f509f7e5\\output\\res\\layout\\com_facebook_login_fragment.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_checkbox_item.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\spinner_checkbox_item.xml"
     },
     {
-        "merged": "/home/amcprak/Dropbox/Android-app/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\97d8aa2c88ec049ac4ca5918e641164ba2ac446a\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pager_add.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\fragment_pager_add.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\60c9694e75aae713a3c30080c49d6947f509f7e5\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\97d8aa2c88ec049ac4ca5918e641164ba2ac446a\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\60c9694e75aae713a3c30080c49d6947f509f7e5\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\60c9694e75aae713a3c30080c49d6947f509f7e5\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\97d8aa2c88ec049ac4ca5918e641164ba2ac446a\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pager_search.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\fragment_pager_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\60c9694e75aae713a3c30080c49d6947f509f7e5\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fb_page_list.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\fb_page_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_keyword.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_add_keyword.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\97d8aa2c88ec049ac4ca5918e641164ba2ac446a\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pager_add.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\fragment_pager_add.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\97d8aa2c88ec049ac4ca5918e641164ba2ac446a\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\97d8aa2c88ec049ac4ca5918e641164ba2ac446a\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_test.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\content_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\97d8aa2c88ec049ac4ca5918e641164ba2ac446a\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_database.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_view_database.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pager_search.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\fragment_pager_search.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\97d8aa2c88ec049ac4ca5918e641164ba2ac446a\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\60c9694e75aae713a3c30080c49d6947f509f7e5\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fb_page_list.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\fb_page_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_database.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_view_database.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_category.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_add_category.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\60c9694e75aae713a3c30080c49d6947f509f7e5\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\60c9694e75aae713a3c30080c49d6947f509f7e5\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pager_database.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\fragment_pager_database.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\97d8aa2c88ec049ac4ca5918e641164ba2ac446a\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_category.xml",
+        "source": "C:\\Users\\A\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_view_category.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\445426257f9829141667b4094e39210db51311f4\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\home\\amcprak\\.android\\build-cache\\3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_category.xml",
+        "source": "C:\\home\\amcprak\\Dropbox\\Android-app\\app\\src\\main\\res\\layout\\activity_view_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\A\\Dropbox\\Android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\4de3fce305f489679cbb2ec4e04826e0c59c74be\\output\\res\\layout\\design_text_input_password_icon.xml"
     }
 ]

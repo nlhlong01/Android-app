@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tvFoundArticleContent"
+        android:layout_width="325dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvFoundArticleHeadline"
+        android:layout_toEndOf="@+id/ivFoundPageLogo"
+        android:layout_toRightOf="@+id/ivFoundPageLogo"
+        android:paddingLeft="30dp"
+        android:text="TextView"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+    <TextView
+        android:id="@+id/tvFoundPageName"
+        android:layout_width="325dp"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:text="TextView"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/ivFoundPageLogo"
+        android:layout_toEndOf="@+id/ivFoundPageLogo" />
+
+    <ImageView
+        android:id="@+id/ivFoundPageLogo"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_column="3"
+        android:layout_row="0"/>
+
+    <TextView
+        android:id="@+id/tvFoundArticleHeadline"
+        android:layout_width="325dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvFoundPageName"
+        android:layout_toEndOf="@+id/ivFoundPageLogo"
+        android:layout_toRightOf="@+id/ivFoundPageLogo"
+        android:paddingLeft="30dp"
+        android:text="TextView"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textSize="18sp" />
+
+</RelativeLayout>

@@ -68,6 +68,13 @@ public final class DbContract {
         public static final String CATEGORY = "category";
         public static final String ABOUT = "about";
         public static final String WEBSITE = "website";
+        public static final String PICTURE = "picture";
         public static final String CREDIBILITY = "credibility";
+    }
+
+    public static class Keyword_Category implements BaseColumns {
+        public static final String TABLE_NAME = "Keyword_Category";
+        public static final String KEYWORD_ID = "keyword_id";
+        public static final String CATEGORY_ID = "category_ID";
     }
 }

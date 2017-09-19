@@ -17,7 +17,7 @@ public class AddCategory extends AppCompatActivity {
         setContentView(R.layout.activity_add_category);
         setTitle("Add Category");
         mainActIntent = new Intent(this, TabbedActivity.class);
-        mainActIntent.putExtra("view", 2);
+        mainActIntent.putExtra("view", 0);
     }
 
     //set up back button's function

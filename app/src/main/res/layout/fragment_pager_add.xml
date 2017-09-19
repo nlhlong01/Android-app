@@ -4,6 +4,13 @@
     android:layout_height="match_parent">
 
     <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="clickLogout"
+        android:text="Button" />
+
+    <Button
         android:id="@+id/btnAddKeyword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -27,10 +34,10 @@
         android:text="article source"
         android:textSize="36sp" />
 
-    <ListView
+    <!--<ListView
         android:id="@+id/lvAddOptions"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent" />-->
 
 
 </LinearLayout>

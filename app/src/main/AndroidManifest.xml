@@ -62,13 +62,50 @@
         <activity
             android:name=".AddCategory"
             android:parentActivityName=".TabbedActivity" />
+
+        <!-- this is the searchable activity; it performs searches -->
         <activity
             android:name=".AddArticleSource"
             android:parentActivityName=".TabbedActivity" />
+
+        <!--
+         this activity enables the search dialog to initiate searches
+         in the SearchableActivity
+        -->
+        <!--
+        <activity
+            android:name=".SearchForFbPage" >
+            &lt;!&ndash; enable the search dialog to send searches to SearchableActivity &ndash;&gt;
+            <meta-data android:name="android.app.default_searchable"
+                android:value=".AddArticleSource" />
+        </activity>
+        -->
+
+        <activity
+            android:name=".SearchForFbPage"
+            android:parentActivityName=".AddArticleSource">
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
         <activity
             android:name=".ViewDatabase"
             android:parentActivityName=".TabbedActivity" />
         <activity android:name=".TabbedActivity" />
+        <activity
+            android:name=".SearchResults"
+            android:parentActivityName=".TabbedActivity" />
+        <activity
+            android:name=".TestActivity"
+            android:label="@string/title_activity_test"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ViewDetailedDataArticleSource"
+            android:parentActivityName=".ViewDatabase" />
     </application>
 
 </manifest>

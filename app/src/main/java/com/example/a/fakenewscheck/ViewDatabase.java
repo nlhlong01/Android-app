@@ -2,13 +2,16 @@ package com.example.a.fakenewscheck;
 
 import android.content.Intent;
 import android.database.Cursor;
+import android.graphics.Typeface;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
+import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.CheckBox;
 import android.widget.CompoundButton;
 import android.widget.TableLayout;
@@ -24,6 +27,8 @@ public class ViewDatabase extends AppCompatActivity {
     int rowCount;
     String tableName;
     CheckBox cbSelectAll;
+    public boolean clickable;
+    private int undeletableValNum;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,15 +43,34 @@ public class ViewDatabase extends AppCompatActivity {
         checkBoxList = new ArrayList<>();
         tableName = getIntent().getStringExtra("table");
         setTitle(tableName);
-        String sortOrder = "_id ASC";
-        new showTables().execute(tableName, sortOrder);
+        //String sortOrder = "_id ASC";
+        Cursor cursor;
+        if (tableName.equals(DbContract.Keyword.TABLE_NAME)) {
+            cursor = TabbedActivity.db.rawQuery("SELECT k._id, keyword, category FROM Keyword k " +
+                    "JOIN Category c ON k.category_id=c._id ORDER BY keyword ASC", null);
+            clickable = false;
+        }
+        else if (tableName.equals(DbContract.Category.TABLE_NAME)) {
+            cursor = TabbedActivity.db.query(tableName,
+                    new String[] {DbContract.Category._ID, DbContract.Category.CATEGORY}
+                    , null, null, null, null, DbContract.Category.CATEGORY + " ASC");
+            clickable = true;
+        }
+        else {
+            cursor = TabbedActivity.db.query(tableName,
+                    new String[] {DbContract.ArticleSource._ID, DbContract.ArticleSource.NAME}
+                    , null, null, null, null, DbContract.ArticleSource.NAME + " ASC");
+            clickable = true;
+        }
+
+        new showTables().execute(cursor);
         rowCount = 0;
     }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
-        inflater.inflate(R.menu.menu_show, menu);
+        inflater.inflate(R.menu.menu_view_database, menu);
         return true;
     }
 
@@ -71,16 +95,14 @@ public class ViewDatabase extends AppCompatActivity {
         else return super.onOptionsItemSelected(item);
     }
 
-    private class showTables extends AsyncTask <String, Void, Void> {
+    private class showTables extends AsyncTask <Cursor, Void, Void> {
         TableRow trColumnNames;
         List<TableRow> trRows;
 
         @Override
-        protected Void doInBackground(String... params) {
+        protected Void doInBackground(Cursor... cursors) {
             trRows = new ArrayList<>();
-            Cursor cursor = TabbedActivity.db.query(params[0],
-                    null, null, null, null, null, params[1]);
-
+            Cursor cursor = cursors[0];
             String colNamesStr[] = cursor.getColumnNames();
             trColumnNames = createColumnNames(colNamesStr);
 
@@ -91,7 +113,7 @@ public class ViewDatabase extends AppCompatActivity {
                     for (int i = 0; i <= cols.length - 1; i++) {
                         cols[i] = cursor.getString(i);
                     }
-                    trRows.add(createOneRow(cols));
+                    trRows.add(createOneRow(cols, clickable));
                 } while (cursor.moveToNext());
             }
             return null;
@@ -107,8 +129,15 @@ public class ViewDatabase extends AppCompatActivity {
             cbSelectAll.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
                 @Override
                 public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                    for (CheckBox checkBox : checkBoxList) {
-                        checkBox.setChecked(true);
+                    if (isChecked) {
+                        for (CheckBox checkBox : checkBoxList) {
+                            checkBox.setChecked(true);
+                        }
+                    }
+                    else {
+                        for (CheckBox checkBox : checkBoxList) {
+                            checkBox.setChecked(false);
+                        }
                     }
                 }
             });
@@ -117,33 +146,57 @@ public class ViewDatabase extends AppCompatActivity {
 
     private TableRow createColumnNames(String... colNames) {
         TableRow tableRow = new TableRow(this);
+        TableRow.LayoutParams lp = new TableRow.LayoutParams(TableRow.LayoutParams.MATCH_PARENT, 100);
+        tableRow.setLayoutParams(lp);
         cbSelectAll = new CheckBox(this);
         cbSelectAll.setPadding(0, 0, 20, 0);
         tableRow.addView(cbSelectAll);
-        for (int i = 0; i <= colNames.length - 1; i++) {
+        for (int i = 1; i <= colNames.length - 1; i++) {
             TextView textView = new TextView(this);
             textView.setPadding(0, 0, 20, 0);
             textView.setText(colNames[i]);
+            textView.setTextSize(30);
+            textView.setTypeface(null, Typeface.BOLD);
             tableRow.addView(textView);
         }
         return tableRow;
     }
 
-    private TableRow createOneRow(String... cols) {
-        TableRow tableRow = new TableRow(this);
-        TableRow.LayoutParams lp = new TableRow.LayoutParams(TableRow.LayoutParams.WRAP_CONTENT);
+    private TableRow createOneRow(String[] cols, boolean clickable) {
+        final TableRow tableRow = new TableRow(this);
+        TableRow.LayoutParams lp = new TableRow.LayoutParams(TableRow.LayoutParams.MATCH_PARENT,
+                100);
         tableRow.setLayoutParams(lp);
-
-        CheckBox checkBox = new CheckBox(this);
+        final CheckBox checkBox = new CheckBox(this);
         checkBox.setTag(cols[0]);
         checkBoxList.add(checkBox);
         tableRow.addView(checkBox);
-        for (int i = 0; i <= cols.length - 1; i++) {
+        for (int i = 1; i <= cols.length - 1; i++) {
             TextView textView = new TextView(this);
             textView.setText(cols[i]);
+            textView.setTextSize(28);
+            textView.setPadding(0, 0, 20, 0);
             tableRow.addView(textView);
         }
         rowCount++;
+        if (clickable) {
+            tableRow.setOnLongClickListener(new View.OnLongClickListener() {
+                @Override
+                public boolean onLongClick(View v) {
+                    Intent i = new Intent(ViewDatabase.this, ViewDetailedDataArticleSource.class);
+                    i.putExtra("table name", tableName);
+                    i.putExtra("entry id", (String) checkBox.getTag());
+                    startActivity(i);
+                    return false;
+                }
+            });
+            /*tableRow.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    startActivity(new Intent(ViewDatabase.this, ViewDetailedDataArticleSource.class));
+                }
+            });*/
+        }
         return tableRow;
     }
 

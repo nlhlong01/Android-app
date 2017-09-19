@@ -32,16 +32,16 @@
         android:textSize="30sp" />
 
     <Button
-        android:text="add"
+        android:id="@+id/buttonAdd"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/etCategory"
-        android:id="@+id/buttonAdd"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/etCategory"
         android:onClick="clickReaction"
+        android:text="add"
         android:textSize="36sp" />
 
 </RelativeLayout>

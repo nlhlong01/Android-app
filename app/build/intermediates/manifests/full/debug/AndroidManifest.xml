@@ -73,13 +73,50 @@
         <activity
             android:name="com.example.a.fakenewscheck.AddCategory"
             android:parentActivityName="com.example.a.fakenewscheck.TabbedActivity" />
+
+        <!-- this is the searchable activity; it performs searches -->
         <activity
             android:name="com.example.a.fakenewscheck.AddArticleSource"
             android:parentActivityName="com.example.a.fakenewscheck.TabbedActivity" />
+
+        <!--
+         this activity enables the search dialog to initiate searches
+         in the SearchableActivity
+        -->
+        <!--
+        <activity
+            android:name=".SearchForFbPage" >
+            &lt;!&ndash; enable the search dialog to send searches to SearchableActivity &ndash;&gt;
+            <meta-data android:name="android.app.default_searchable"
+                android:value=".AddArticleSource" />
+        </activity>
+        -->
+
+        <activity
+            android:name="com.example.a.fakenewscheck.SearchForFbPage"
+            android:parentActivityName="com.example.a.fakenewscheck.AddArticleSource" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
         <activity
             android:name="com.example.a.fakenewscheck.ViewDatabase"
             android:parentActivityName="com.example.a.fakenewscheck.TabbedActivity" />
         <activity android:name="com.example.a.fakenewscheck.TabbedActivity" />
+        <activity
+            android:name="com.example.a.fakenewscheck.SearchResults"
+            android:parentActivityName="com.example.a.fakenewscheck.TabbedActivity" />
+        <activity
+            android:name="com.example.a.fakenewscheck.TestActivity"
+            android:label="@string/title_activity_test"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.a.fakenewscheck.ViewDetailedDataArticleSource"
+            android:parentActivityName="com.example.a.fakenewscheck.ViewDatabase" />
         <activity android:name="com.facebook.CustomTabMainActivity" />
         <!--
          The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically

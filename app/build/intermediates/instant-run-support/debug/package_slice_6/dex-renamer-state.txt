@@ -1,4 +1,4 @@
-#Thu Jul 27 18:00:16 CEST 2017
+#Mon Aug 21 21:39:39 CEST 2017
 base.0=/home/amcprak/Dropbox/Android-app/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
 renamed.0=classes.dex
 file.0=/home/amcprak/Dropbox/Android-app/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

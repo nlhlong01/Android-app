@@ -1,246 +1,285 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:2:1-74:12
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:2:1-111:12
 	package
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:3:5-42
-		INJECTED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml
-		INJECTED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml
-		INJECTED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml
-		INJECTED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:8:5-71
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:8:5-71
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:8:22-68
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:8:22-68
 uses-permission#android.permission.READ_PROFILE
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:9:5-71
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:9:5-71
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:9:22-68
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:9:22-68
 uses-permission#android.permission.READ_CONTACTS
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:10:5-72
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:10:5-72
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:10:22-69
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:10:22-69
 application
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:12:5-72:19
-MERGED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/AndroidManifest.xml:28:5-48:19
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/amcprak/.android/build-cache/78c9bb822a739f48717cd9a376c54a86bc1a1f50/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:customtabs:25.3.1] /home/amcprak/.android/build-cache/8ea5742179ee310e7c8e1d33b12aab74be29b316/output/AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /home/amcprak/.android/build-cache/2c2ecd9785ddf4ed666227c4b9b4fa959f8ce266/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/amcprak/.android/build-cache/74dbe7f5a786cbbfacb8344c5241d2f6a4d2108d/output/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.firebase:firebase-common:9.8.0] /home/amcprak/.android/build-cache/ac5aadf0fa291a68e7c49c029e7edec8c3733ad1/output/AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/amcprak/.android/build-cache/17310f6acd93e3f5a3ec7c78945b34b8d3c95ff5/output/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/amcprak/.android/build-cache/bf572e142b1fc6f79c57efbb024e05254b2cbcc7/output/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:gridlayout-v7:25.3.1] /home/amcprak/.android/build-cache/f8b904dc3c3d40a6263e159659289126c2b0f667/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:design:25.3.1] /home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/amcprak/.android/build-cache/55480cc0e5fe872081bc5b3e2cd4be2e0e711125/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/amcprak/.android/build-cache/7b7fd6a4259d7d68bd42239178113eea9fc8b98e/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] /home/amcprak/.android/build-cache/15ca6327158b03433e919cde9c9a90d89e025667/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /home/amcprak/.android/build-cache/a82abbe2b92ea614fec1525a8fa7523a3a4a8041/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /home/amcprak/.android/build-cache/3fdd9754160cc16953c727ef3e860f90ac78dcce/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/amcprak/.android/build-cache/9d54ffddb64e9b70f1840fbb5db9969e7f6e90fa/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/amcprak/.android/build-cache/7f66586705ce5fac295df65f0ef72d45ad106722/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/amcprak/.android/build-cache/9d58737f1c24f4d37266b89b7d7ab34088c41e71/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /home/amcprak/.android/build-cache/d24d6b405ae8e1dcecc27b7204e126b5c1ce5918/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /home/amcprak/.android/build-cache/3cfa88c09b51fa8da3e1821878ca90aef6e42d43/output/AndroidManifest.xml:9:5-20
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:12:5-109:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\A\.android\build-cache\be008861e1f03876f09a38223da875c6cb5c3524\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\A\.android\build-cache\1aad3b953dc9c845e20de6bda04e4447265020cc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\A\.android\build-cache\187859e69d1ee549733ee537f713a33504dfae44\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\A\.android\build-cache\72f028e0bd616c6148bf5d9f786431ba69437ae9\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\A\.android\build-cache\849deb1b34f871ab39695caccd5b240885151aee\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\A\.android\build-cache\4cf8ea4dc7133157a3823b2350bb1bca03370f69\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\A\.android\build-cache\0b92cd282fa04e4e3fe7b97244576b435764ff51\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\A\.android\build-cache\3c8f3050ab5b0ac0980160c06fd3e68a65be18a4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\A\.android\build-cache\4de3fce305f489679cbb2ec4e04826e0c59c74be\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\A\.android\build-cache\445426257f9829141667b4094e39210db51311f4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\A\.android\build-cache\6743614e9ecc226a7178f3389414e47c323df8d1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\A\.android\build-cache\65bff9828d48c5133f5cdf697246d0ea14056bcb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\A\.android\build-cache\ddf98baeb015082e7c33faed372e078880093217\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\A\.android\build-cache\d8bc88bfc56fced02ac3b0ff099983957af09e50\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\A\.android\build-cache\25234d5177932acc27ad5739150e7b34ee17935c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\A\.android\build-cache\417ce1de917c2f5aee55f91bcad9d4e278883f4e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\A\.android\build-cache\f60649e4e244863a8ded5b082532c10ba2ce267b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\A\.android\build-cache\d8252cf6ad3a5389455ffce3329f16a6cf5981eb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\A\.android\build-cache\38401c5a8ddaff2d608c4c7c65e8c49a2ac8518c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\A\.android\build-cache\52c4ede05fe5c7fd296998bee646f2f4ae139ccd\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:16:9-41
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:16:9-41
 	android:supportsRtl
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:17:9-35
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:17:9-35
 	android:debuggable
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:14:9-34
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:14:9-34
 	android:allowBackup
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:13:9-35
 	android:icon
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:15:9-43
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:15:9-43
 	android:theme
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:18:9-40
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:18:9-40
 activity#com.example.a.fakenewscheck.MainActivity
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:19:9-25:20
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:19:9-25:20
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:19:19-47
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:19:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:20:13-24:29
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:21:17-69
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:23:17-77
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:23:27-74
 activity#com.facebook.FacebookActivity
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:26:9-29:48
-MERGED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/AndroidManifest.xml:29:9-32:66
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:26:9-29:48
+MERGED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:29:9-32:66
 	android:label
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:29:13-45
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:29:13-45
 	android:configChanges
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:28:13-96
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:28:13-96
 	android:theme
-		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/AndroidManifest.xml:32:13-63
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:27:13-57
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:27:13-57
 activity#com.facebook.CustomTabActivity
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:30:9-41:20
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:30:9-41:20
 	android:exported
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:32:13-36
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:32:13-36
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:31:13-58
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:31:13-58
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:33:13-40:29
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:33:13-40:29
 action#android.intent.action.VIEW
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:34:17-69
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:34:17-69
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:34:25-66
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:34:25-66
 category#android.intent.category.DEFAULT
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:36:17-76
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:36:17-76
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:36:27-73
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:36:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:37:17-78
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:37:17-78
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:37:27-75
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:37:27-75
 data
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:39:17-75
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:39:17-75
 	android:scheme
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:39:23-72
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:39:23-72
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:43:9-45:55
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:43:9-45:55
 	android:value
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:45:13-52
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:45:13-52
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:44:13-58
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:44:13-58
 provider#com.facebook.FacebookContentProvider
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:47:9-50:39
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:47:9-50:39
 	android:authorities
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:49:13-90
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:49:13-90
 	android:exported
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:50:13-36
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:50:13-36
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:48:13-64
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:48:13-64
 meta-data#com.google.android.gms.version
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:55:9-57:69
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/amcprak/.android/build-cache/bf572e142b1fc6f79c57efbb024e05254b2cbcc7/output/AndroidManifest.xml:20:9-121
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:55:9-57:69
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\A\.android\build-cache\0b92cd282fa04e4e3fe7b97244576b435764ff51\output\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:57:13-66
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:57:13-66
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:56:13-58
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:56:13-58
 activity#com.example.a.fakenewscheck.AddKeyword
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:59:9-61:60
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:59:9-61:60
 	android:parentActivityName
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:61:13-57
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:61:13-57
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:60:13-39
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:60:13-39
 activity#com.example.a.fakenewscheck.AddCategory
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:62:9-64:60
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:62:9-64:60
 	android:parentActivityName
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:64:13-57
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:64:13-57
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:63:13-40
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:63:13-40
 activity#com.example.a.fakenewscheck.AddArticleSource
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:65:9-67:60
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:67:9-69:60
 	android:parentActivityName
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:67:13-57
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:69:13-57
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:66:13-45
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:68:13-45
+activity#com.example.a.fakenewscheck.SearchForFbPage
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:84:9-94:20
+	android:parentActivityName
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:86:13-59
+	android:name
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:85:13-44
+intent-filter#android.intent.action.SEARCH
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:87:13-89:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:88:17-71
+	android:name
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:88:25-68
+meta-data#android.app.searchable
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:91:13-93:54
+	android:resource
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:93:17-51
+	android:name
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:92:17-54
 activity#com.example.a.fakenewscheck.ViewDatabase
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:68:9-70:60
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:95:9-97:60
 	android:parentActivityName
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:70:13-57
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:97:13-57
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:69:13-41
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:96:13-41
 activity#com.example.a.fakenewscheck.TabbedActivity
-ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:71:9-52
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:98:9-52
 	android:name
-		ADDED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml:71:19-49
-uses-sdk
-INJECTED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/amcprak/.android/build-cache/78c9bb822a739f48717cd9a376c54a86bc1a1f50/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:customtabs:25.3.1] /home/amcprak/.android/build-cache/8ea5742179ee310e7c8e1d33b12aab74be29b316/output/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /home/amcprak/.android/build-cache/2c2ecd9785ddf4ed666227c4b9b4fa959f8ce266/output/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/amcprak/.android/build-cache/74dbe7f5a786cbbfacb8344c5241d2f6a4d2108d/output/AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-common:9.8.0] /home/amcprak/.android/build-cache/ac5aadf0fa291a68e7c49c029e7edec8c3733ad1/output/AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/amcprak/.android/build-cache/17310f6acd93e3f5a3ec7c78945b34b8d3c95ff5/output/AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/amcprak/.android/build-cache/bf572e142b1fc6f79c57efbb024e05254b2cbcc7/output/AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:gridlayout-v7:25.3.1] /home/amcprak/.android/build-cache/f8b904dc3c3d40a6263e159659289126c2b0f667/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:25.3.1] /home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/amcprak/.android/build-cache/55480cc0e5fe872081bc5b3e2cd4be2e0e711125/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/amcprak/.android/build-cache/7b7fd6a4259d7d68bd42239178113eea9fc8b98e/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/amcprak/.android/build-cache/a722b048f4a1fb873b0e65dba4b1a41a843d69aa/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] /home/amcprak/.android/build-cache/15ca6327158b03433e919cde9c9a90d89e025667/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] /home/amcprak/.android/build-cache/a82abbe2b92ea614fec1525a8fa7523a3a4a8041/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /home/amcprak/.android/build-cache/3fdd9754160cc16953c727ef3e860f90ac78dcce/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/amcprak/.android/build-cache/9d54ffddb64e9b70f1840fbb5db9969e7f6e90fa/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/amcprak/.android/build-cache/7f66586705ce5fac295df65f0ef72d45ad106722/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/amcprak/.android/build-cache/9d58737f1c24f4d37266b89b7d7ab34088c41e71/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] /home/amcprak/.android/build-cache/d24d6b405ae8e1dcecc27b7204e126b5c1ce5918/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /home/amcprak/.android/build-cache/3cfa88c09b51fa8da3e1821878ca90aef6e42d43/output/AndroidManifest.xml:5:5-7:41
-	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] /home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/AndroidManifest.xml:23:9-59
-	android:targetSdkVersion
-		INJECTED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml
-		INJECTED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml
-	android:minSdkVersion
-		INJECTED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml
-		INJECTED from /home/amcprak/Dropbox/Android-app/app/src/main/AndroidManifest.xml
-activity#com.facebook.CustomTabMainActivity
-ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/AndroidManifest.xml:33:9-71
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:98:19-49
+activity#com.example.a.fakenewscheck.SearchResults
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:99:9-101:60
+	android:parentActivityName
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:101:13-57
 	android:name
-		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/AndroidManifest.xml:33:19-68
-provider#com.facebook.internal.FacebookInitProvider
-ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/AndroidManifest.xml:44:9-47:40
-	android:authorities
-		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/AndroidManifest.xml:46:13-72
-	android:exported
-		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/AndroidManifest.xml:47:13-37
-	android:name
-		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/amcprak/.android/build-cache/60c9694e75aae713a3c30080c49d6947f509f7e5/output/AndroidManifest.xml:45:13-70
-meta-data#android.support.VERSION
-ADDED from [com.android.support:cardview-v7:25.3.1] /home/amcprak/.android/build-cache/78c9bb822a739f48717cd9a376c54a86bc1a1f50/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:customtabs:25.3.1] /home/amcprak/.android/build-cache/8ea5742179ee310e7c8e1d33b12aab74be29b316/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:gridlayout-v7:25.3.1] /home/amcprak/.android/build-cache/f8b904dc3c3d40a6263e159659289126c2b0f667/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:design:25.3.1] /home/amcprak/.android/build-cache/97d8aa2c88ec049ac4ca5918e641164ba2ac446a/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/amcprak/.android/build-cache/3c2b1dabf6ce9f5e6b40ab5acef469613eacf5cd/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/amcprak/.android/build-cache/55480cc0e5fe872081bc5b3e2cd4be2e0e711125/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/amcprak/.android/build-cache/7b7fd6a4259d7d68bd42239178113eea9fc8b98e/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/amcprak/.android/build-cache/a722b048f4a1fb873b0e65dba4b1a41a843d69aa/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] /home/amcprak/.android/build-cache/15ca6327158b03433e919cde9c9a90d89e025667/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] /home/amcprak/.android/build-cache/a82abbe2b92ea614fec1525a8fa7523a3a4a8041/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /home/amcprak/.android/build-cache/3fdd9754160cc16953c727ef3e860f90ac78dcce/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/amcprak/.android/build-cache/9d54ffddb64e9b70f1840fbb5db9969e7f6e90fa/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/amcprak/.android/build-cache/7f66586705ce5fac295df65f0ef72d45ad106722/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/amcprak/.android/build-cache/9d58737f1c24f4d37266b89b7d7ab34088c41e71/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] /home/amcprak/.android/build-cache/d24d6b405ae8e1dcecc27b7204e126b5c1ce5918/output/AndroidManifest.xml:25:5-27:34
-	android:value
-		ADDED from [com.android.support:cardview-v7:25.3.1] /home/amcprak/.android/build-cache/78c9bb822a739f48717cd9a376c54a86bc1a1f50/output/AndroidManifest.xml:24:9-31
-	android:name
-		ADDED from [com.android.support:cardview-v7:25.3.1] /home/amcprak/.android/build-cache/78c9bb822a739f48717cd9a376c54a86bc1a1f50/output/AndroidManifest.xml:23:9-47
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/amcprak/.android/build-cache/74dbe7f5a786cbbfacb8344c5241d2f6a4d2108d/output/AndroidManifest.xml:19:9-172
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/amcprak/.android/build-cache/74dbe7f5a786cbbfacb8344c5241d2f6a4d2108d/output/AndroidManifest.xml:19:146-170
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:100:13-42
+activity#com.example.a.fakenewscheck.TestActivity
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:102:9-105:59
+	android:label
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:104:13-56
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/amcprak/.android/build-cache/74dbe7f5a786cbbfacb8344c5241d2f6a4d2108d/output/AndroidManifest.xml:19:86-145
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:105:13-56
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/amcprak/.android/build-cache/74dbe7f5a786cbbfacb8344c5241d2f6a4d2108d/output/AndroidManifest.xml:19:19-85
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:9.8.0] /home/amcprak/.android/build-cache/ac5aadf0fa291a68e7c49c029e7edec8c3733ad1/output/AndroidManifest.xml:6:9-175
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:103:13-41
+activity#com.example.a.fakenewscheck.ViewDetailedDataArticleSource
+ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:106:9-108:58
+	android:parentActivityName
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:108:13-55
+	android:name
+		ADDED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml:107:13-58
+uses-sdk
+INJECTED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\A\.android\build-cache\266194e119e64abfdc268d066e32efe68738ed31\output\AndroidManifest.xml:18:5-42
+MERGED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\A\.android\build-cache\be008861e1f03876f09a38223da875c6cb5c3524\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\A\.android\build-cache\1aad3b953dc9c845e20de6bda04e4447265020cc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\A\.android\build-cache\187859e69d1ee549733ee537f713a33504dfae44\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\A\.android\build-cache\72f028e0bd616c6148bf5d9f786431ba69437ae9\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\A\.android\build-cache\849deb1b34f871ab39695caccd5b240885151aee\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\A\.android\build-cache\4cf8ea4dc7133157a3823b2350bb1bca03370f69\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\A\.android\build-cache\0b92cd282fa04e4e3fe7b97244576b435764ff51\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\A\.android\build-cache\3c8f3050ab5b0ac0980160c06fd3e68a65be18a4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\A\.android\build-cache\4de3fce305f489679cbb2ec4e04826e0c59c74be\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\A\.android\build-cache\445426257f9829141667b4094e39210db51311f4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\A\.android\build-cache\6743614e9ecc226a7178f3389414e47c323df8d1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\A\.android\build-cache\65bff9828d48c5133f5cdf697246d0ea14056bcb\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\A\.android\build-cache\67143a1fb92cbc92a845c7b0fc01b095db9b2488\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\A\.android\build-cache\ddf98baeb015082e7c33faed372e078880093217\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\A\.android\build-cache\d8bc88bfc56fced02ac3b0ff099983957af09e50\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\A\.android\build-cache\25234d5177932acc27ad5739150e7b34ee17935c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\A\.android\build-cache\417ce1de917c2f5aee55f91bcad9d4e278883f4e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\A\.android\build-cache\f60649e4e244863a8ded5b082532c10ba2ce267b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\A\.android\build-cache\d8252cf6ad3a5389455ffce3329f16a6cf5981eb\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\A\.android\build-cache\38401c5a8ddaff2d608c4c7c65e8c49a2ac8518c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\A\.android\build-cache\52c4ede05fe5c7fd296998bee646f2f4ae139ccd\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\A\.android\build-cache\4de3fce305f489679cbb2ec4e04826e0c59c74be\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\A\Dropbox\Android-app\app\src\main\AndroidManifest.xml
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:44:9-47:40
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:9.8.0] /home/amcprak/.android/build-cache/ac5aadf0fa291a68e7c49c029e7edec8c3733ad1/output/AndroidManifest.xml:6:19-78
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:46:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:9.8.0] /home/amcprak/.android/build-cache/ac5aadf0fa291a68e7c49c029e7edec8c3733ad1/output/AndroidManifest.xml:6:125-149
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:9.8.0] /home/amcprak/.android/build-cache/ac5aadf0fa291a68e7c49c029e7edec8c3733ad1/output/AndroidManifest.xml:6:150-173
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-common:9.8.0] /home/amcprak/.android/build-cache/ac5aadf0fa291a68e7c49c029e7edec8c3733ad1/output/AndroidManifest.xml:6:79-124
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\A\.android\build-cache\5a971282bfd1b2de01c9dcabb694d74e5b6dc523\output\AndroidManifest.xml:45:13-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\A\.android\build-cache\be008861e1f03876f09a38223da875c6cb5c3524\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\A\.android\build-cache\1aad3b953dc9c845e20de6bda04e4447265020cc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\A\.android\build-cache\3c8f3050ab5b0ac0980160c06fd3e68a65be18a4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\A\.android\build-cache\4de3fce305f489679cbb2ec4e04826e0c59c74be\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\A\.android\build-cache\445426257f9829141667b4094e39210db51311f4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\A\.android\build-cache\6743614e9ecc226a7178f3389414e47c323df8d1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\A\.android\build-cache\65bff9828d48c5133f5cdf697246d0ea14056bcb\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\A\.android\build-cache\67143a1fb92cbc92a845c7b0fc01b095db9b2488\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\A\.android\build-cache\ddf98baeb015082e7c33faed372e078880093217\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\A\.android\build-cache\d8bc88bfc56fced02ac3b0ff099983957af09e50\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\A\.android\build-cache\25234d5177932acc27ad5739150e7b34ee17935c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\A\.android\build-cache\417ce1de917c2f5aee55f91bcad9d4e278883f4e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\A\.android\build-cache\f60649e4e244863a8ded5b082532c10ba2ce267b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\A\.android\build-cache\d8252cf6ad3a5389455ffce3329f16a6cf5981eb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\A\.android\build-cache\38401c5a8ddaff2d608c4c7c65e8c49a2ac8518c\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\A\.android\build-cache\be008861e1f03876f09a38223da875c6cb5c3524\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\A\.android\build-cache\be008861e1f03876f09a38223da875c6cb5c3524\output\AndroidManifest.xml:23:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\A\.android\build-cache\72f028e0bd616c6148bf5d9f786431ba69437ae9\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\A\.android\build-cache\72f028e0bd616c6148bf5d9f786431ba69437ae9\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\A\.android\build-cache\72f028e0bd616c6148bf5d9f786431ba69437ae9\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\A\.android\build-cache\72f028e0bd616c6148bf5d9f786431ba69437ae9\output\AndroidManifest.xml:19:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\A\.android\build-cache\849deb1b34f871ab39695caccd5b240885151aee\output\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\A\.android\build-cache\849deb1b34f871ab39695caccd5b240885151aee\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\A\.android\build-cache\849deb1b34f871ab39695caccd5b240885151aee\output\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\A\.android\build-cache\849deb1b34f871ab39695caccd5b240885151aee\output\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\A\.android\build-cache\849deb1b34f871ab39695caccd5b240885151aee\output\AndroidManifest.xml:6:79-124

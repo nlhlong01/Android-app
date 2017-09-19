@@ -1,0 +1,66 @@
+CREATE TABLE Category (
+	_id INTEGER PRIMARY KEY,
+	category TEXT
+);
+
+CREATE TABLE Keyword (
+	_id INTEGER PRIMARY KEY,
+	category_id INTEGER,
+	keyword TEXT,
+	FOREIGN KEY (category_id) REFERENCES Category (_id)
+);
+
+CREATE TABLE Keyword_Article (
+	_id INTEGER PRIMARY KEY,
+	keyword_id INTEGER,
+	article_id INTEGER,
+	FOREIGN KEY (keyword_id) REFERENCES Keyword (_id),
+	FOREIGN KEY (article_id) REFERENCES Article (_id)
+);
+
+CREATE TABLE Category_Incident (
+	_id INTEGER PRIMARY KEY,
+	category_id INTEGER,
+	incident_id INTEGER,
+	FOREIGN KEY (category_id) REFERENCES Category (_id),
+	FOREIGN KEY (incident_id) REFERENCES Incident (_id)
+);
+
+CREATE TABLE Incident (
+	_id INTEGER PRIMARY KEY,
+	date_time DATETIME,
+	description TEXT
+);
+
+CREATE TABLE Article (
+	_id INTEGER PRIMARY KEY,
+	post_id TEXT,
+	postID_text TEXT,
+	create_time TEXT,
+	message TEXT,
+	incident_id INTEGER,
+	source_id INTEGER,
+	article_type TEXT
+	FOREIGN KEY (incident_id) REFERENCES Incident (_id),
+	FOREIGN KEY (source_id) REFERENCES Source (_id)
+);
+
+CREATE TABLE Location (
+	_id INTEGER PRIMARY KEY,
+	latitude INTEGER,
+	longitude INTEGER,
+	ZIPcode INTEGER,
+	city TEXT
+);
+
+CREATE TABLE ArticleSource (
+	_id INTEGER PRIMARY KEY,
+	facebook_id INTEGER,
+	username TEXT,
+	full_name TEXT,
+	category TEXT,
+	about TEXT,
+	website TEXT,
+	picture TEXT,
+	credibility INTEGER
+);

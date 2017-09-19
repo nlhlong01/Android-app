@@ -11,25 +11,26 @@
     tools:context="com.example.a.fakenewscheck.AddArticleSource">
 
     <TextView
-        android:text="Facebook ID"
+        android:id="@+id/tvSocialNetworkID"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:id="@+id/tvSocialNetworkID"
+        android:layout_alignParentTop="true"
+        android:text="Page's Name"
         android:textSize="36sp" />
 
     <EditText
+        android:id="@+id/etFullName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="textPersonName"
-        android:ems="10"
-        android:id="@+id/etUsernameId"
-        android:textSize="30sp"
-        android:layout_below="@+id/tvSocialNetworkID"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tvSocialNetworkID"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:textSize="30sp"
+        android:focusableInTouchMode="false"/>
 
     <TextView
         android:text="Credibility"
@@ -37,32 +38,28 @@
         android:layout_height="wrap_content"
         android:id="@+id/tvAbout"
         android:textSize="36sp"
-        android:layout_below="@+id/etUsernameId"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
-
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:inputType="textPersonName"
-        android:ems="10"
-        android:id="@+id/etCredibility"
-        android:textSize="30sp"
-        android:layout_below="@+id/tvAbout"
+        android:layout_below="@+id/etFullName"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
     <Button
-        android:text="add"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:id="@+id/buttonAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:onClick="clickReaction"
-        android:layout_below="@+id/etCredibility"
+        android:text="add"
+        android:textSize="36sp"
+        android:layout_below="@+id/spnCredibility"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:textSize="36sp" />
+        android:layout_marginTop="11dp" />
+
+    <Spinner
+        android:id="@+id/spnCredibility"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tvAbout" />
 
 </RelativeLayout>

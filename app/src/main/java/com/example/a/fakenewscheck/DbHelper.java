@@ -1,5 +1,6 @@
 package com.example.a.fakenewscheck;
 
+import android.content.ContentValues;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
@@ -11,7 +12,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class DbHelper extends SQLiteOpenHelper {
     public static final int DATABASE_VERSION = 1;
 
-    public static final String DATABASE_NAME = "Database.db";
+    public static final String DATABASE_NAME = "Database4.db";
 
     private static final String INTEGER = " INTEGER";
     private static final String TEXT = " TEXT";
@@ -106,8 +107,22 @@ public class DbHelper extends SQLiteOpenHelper {
                     DbContract.ArticleSource.CATEGORY + TEXT + COMMA +
                     DbContract.ArticleSource.ABOUT + TEXT + COMMA +
                     DbContract.ArticleSource.WEBSITE + TEXT + COMMA +
+                    DbContract.ArticleSource.PICTURE + TEXT + COMMA +
                     DbContract.ArticleSource.CREDIBILITY + INTEGER +
             " );";
+
+    private static final String SQL_CREATE_TABLE_KEYWORD_CATEGORY =
+            "CREATE TABLE " + DbContract.Keyword_Category.TABLE_NAME + " (" +
+                    DbContract.Keyword_Category._ID + INTEGER + PRIMARY_KEY + COMMA +
+                    DbContract.Keyword_Category.KEYWORD_ID + INTEGER + COMMA +
+                    DbContract.Keyword_Category.CATEGORY_ID + INTEGER + COMMA +
+                    FOREIGN_KEY + "(" + DbContract.Keyword_Category.KEYWORD_ID + ")" +
+                    REFERENCES + DbContract.Keyword.TABLE_NAME +
+                    "(" + DbContract.Keyword._ID + ")" + COMMA +
+                    FOREIGN_KEY + "(" + DbContract.Keyword_Category.CATEGORY_ID + ")" +
+                    REFERENCES + DbContract.Category.TABLE_NAME +
+                    "(" + DbContract.Category._ID + ")" +
+                    " );";
 
     private static final String SQL_DELETE_ENTRIES_CATEGORY =
             "DROP TABLE IF EXISTS " + DbContract.Category.TABLE_NAME + ";";
@@ -133,6 +148,10 @@ public class DbHelper extends SQLiteOpenHelper {
     private static final String SQL_DELETE_ENTRIES_ARTICLE_SOURCE =
             "DROP TABLE IF EXISTS " + DbContract.ArticleSource.TABLE_NAME + ";";
 
+    private static final String SQL_DELETE_ENTRIES_TABLE_KEYWORD_CATEGORY =
+            "DROP TABLE IF EXISTS " + DbContract.Keyword_Category.TABLE_NAME + ";";
+
+
     // If you change the database schema, you must increment the database version.
 
     public DbHelper(Context context) {
@@ -148,6 +167,7 @@ public class DbHelper extends SQLiteOpenHelper {
         db.execSQL(SQL_CREATE_TABLE_KEYWORD);
         db.execSQL(SQL_CREATE_TABLE_KEYWORD_ARTICLE);
         db.execSQL(SQL_CREATE_TABLE_LOCATION);
+        db.execSQL(SQL_CREATE_TABLE_KEYWORD_CATEGORY);
     }
 
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
@@ -161,6 +181,7 @@ public class DbHelper extends SQLiteOpenHelper {
         db.execSQL(SQL_DELETE_ENTRIES_KEYWORD);
         db.execSQL(SQL_DELETE_ENTRIES_KEYWORD_ARTICLE);
         db.execSQL(SQL_DELETE_ENTRIES_LOCATION);
+        db.execSQL(SQL_DELETE_ENTRIES_TABLE_KEYWORD_CATEGORY);
         onCreate(db);
     }
     public void onDowngrade(SQLiteDatabase db, int oldVersion, int newVersion) {
